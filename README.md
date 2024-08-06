@@ -14,9 +14,9 @@
 ## Fun Fact 🎈:
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
-• 🔭 I’m currently working on <b>something cool!</b> <br/>
-• 👯 I’m looking to collaborate on <b>cool project.</b><br/>
-• 💬 Ask me about <b>Full Stack</b>.<br/>
+• 🔭 I’m currently cooking <b>something!!!!!!</b> <br/>
+• 👯 I’m looking to collaborate on <b>something epic!! .</b><br/>
+• 💬 Ask me about <b>Nothing bcz doing nothing is also a thing</b>.<br/>
 • 📫 Reach me out <a href="https://www.instagram.com/ig_pushkarsingh"><b>@ig_pushkarsingh</b></a><br/>
 </span>
 
