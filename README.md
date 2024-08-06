@@ -2,9 +2,10 @@
 
 <br />
 
-**I am a self-taught Full-stack web/mobile developer from India.**
-<br/><br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. 
-<br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
+**I am a self-taught developer from India... Who is currently cooking.**
+<br/><br/>
+“I love cooking up solutions to complex problems and turning them into simple, beautiful interface designs. 
+<br/><br/>Coding is my kitchen, and I always strive to whip up elegant and efficient code with a dash of flair!
 
 
 
