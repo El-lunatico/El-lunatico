@@ -36,7 +36,7 @@ Building intelligent systems using Deep Learning and Reinforcement Learning
 # ⚙️ Tech Stack
 
 ### Languages
-`Python` `C++` `SQL`
+`Python` 
 
 ### Machine Learning
 `PyTorch` `TensorFlow` `Scikit-Learn` `OpenCV`
@@ -45,10 +45,7 @@ Building intelligent systems using Deep Learning and Reinforcement Learning
 `CNN` `Transformers` `Vision Models`
 
 ### Reinforcement Learning
-`Stable-Baselines3` `PPO` `Gymnasium`
-
-### Simulation
-`SUMO` `CityFlow`
+`PPO` `DNQ`
 
 ### Tools
 `Linux` `Git` `Docker` `Jupyter` `VS Code`
